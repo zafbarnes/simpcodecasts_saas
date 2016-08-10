@@ -22,7 +22,7 @@ $(document).ready(function() {
 	return false;
 }); //form submission
 
-	function stripeResponsHandler(status, response) {
+	function stripeResponseHandler(status, response) {
 	//get a reference to the form:
 	var f = $("#new_user");
 
