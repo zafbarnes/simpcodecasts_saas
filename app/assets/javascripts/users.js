@@ -34,6 +34,5 @@ $(document).ready(function() {
 
 	//submit the form:
 	f.get(0).submit();	
-
 	}
 	});
